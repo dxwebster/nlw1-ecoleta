@@ -21,51 +21,29 @@
   </a>
 </p>
 
+## 📑 Sumário
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Design](#-design)
+- [Licença](#-licença)
 
-## 💻 Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+## 💡 Sobre o Projeto
+Ecoleta é uma aplicação informa pontos de coleta de resíduos orgânicos/inorgânicos.
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - uma imagem do ponto de coleta
 - nome da entidade, email e whatsapp
 - e o endereço para que ele possa aparecer no mapa
 - além de selecionar um ou mais ítens de coleta: 
-  - lâmpadas
-  - pilhas e baterias
-  - papéis e papelão
-  - resíduos eletrônicos
-  - resíduos orgânicos
-  - óleo de cozinha
 
 Os usuários terão acesso ao aplicativo móvel, onde poderão:
 - navegar pelo mapa para ver as instituições cadastradas
 - entrar em contato com a entidade através do E-mail ou do WhatsApp
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat]
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
-
-## 🎨 Design
-
-### Desktop
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img src="./readme/web.svg" width="400px">
-  <img src="./readme/sucesso-web.svg" width="400px">
-</p>
-
-### Mobile
-
-<p align="center">
-  <img src="./readme//home-mobile.png" width="200px">
-  <img src="./readme/detalhes-mobile.svg" width="200px">
-</p>
-
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
+## 🚀 Tecnologias utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Expo][expo]
 - [Node.js][nodejs]
@@ -74,8 +52,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript][typescript]
 
 
+## 🎨 Design
+Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
+
+#### 🖥 Desktop
+|img src="./readme/web.svg" width="500">|<img src="./readme/sucesso-web.svg" width="500"> |  
+|---|---|
+
+### 📱 Mobile
+|<img src="./readme/home-mobile.png" width=300 />|<img src="./readme/detalhes-mobile.svg" width=300 /> |  
+|---|---|
 
 
+## 🚀 Como desenvolver essa aplicação do zero
+
+<h4 align="center"> 
+🚧 Em construção...🚧
+</h4>
 
 
 # Ambiente de desenvolvimento Front-End: Criação da Base do Projeto com React - Aula 01 
@@ -242,3 +235,9 @@ Importa o express, importa as rotas do PointsController, importa as rotas do Ite
 
 ## [server.ts]
 Faz a importação do cors
+
+
+
+## 📕 Licença
+Todos os arquivos incluídos aqui, incluindo este * README *, estão sob [Licença MIT](./LICENSE).
+Criado por [Adriana Lima](https://github.com/dxwebster)
