@@ -37,7 +37,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
 
 #### 🖥 Desktop
-|img src="./readme/web.svg" width="500">|<img src="./readme/sucesso-web.svg" width="500"> |  
+|<img src="./readme/web.svg" width="500">|<img src="./readme/sucesso-web.svg" width="500"> |  
 |---|---|
 
 ### 📱 Mobile
@@ -47,9 +47,9 @@ Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/
 
 ## 🚀 Como desenvolver essa aplicação do zero
 
-<h4 align="center"> 
-🚧 Em construção...🚧
-</h4>
+
+#  🚧 Em construção...🚧
+
 
 
 # Ambiente de desenvolvimento Front-End: Criação da Base do Projeto com React - Aula 01 
