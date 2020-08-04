@@ -37,12 +37,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
 
 #### 🖥 Desktop
-|<img src="./readme/web.svg" width="500">|<img src="./readme/sucesso-web.svg" width="500"> |  
-|---|---|
+|<img src="./readme/Buscar.png" width="300">|<img src="./readme/Cadastro.png" width="300"> | <img src="./readme/Lista.png" width="300"> | 
+|---|---|---|
 
 ### 📱 Mobile
-|<img src="./readme/home-mobile.png" width=300 />|<img src="./readme/detalhes-mobile.svg" width=300 /> |  
-|---|---|
+|<img src="./readme/inicio-mobile.png" width=300 />|<img src="./readme/home-mobile.png" width=300 />|<img src="./readme/detalhes-mobile.svg" width=300 /> |  
+|---|---|---|
 
 
 ## 🚀 Como desenvolver essa aplicação do zero
