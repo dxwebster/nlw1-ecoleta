@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
     <img src="./readme/banner.png" />
-</h1>
+</p>
 
 ## 📑 Sumário
 - [Sobre o Projeto](#-sobre-o-projeto)
