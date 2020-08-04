@@ -1,80 +1,54 @@
-<h1 align="center">
-    <img src="./readme/banner.png" />
-</h1>
-
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/nlw1?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/nlw1">
-
-  <a href="https://www.twitter.com/tgmarinho/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2Fnlw1">
-  </a>
-	
-  <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/nlw1">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/nlw1/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/nlw1?style=social">
-  </a>
+    <img src="./readme/banner.png" />
 </p>
 
+## 📑 Sumário
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Design](#-design)
+- [Licença](#-licença)
 
-## 💻 Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+## 💡 Sobre o Projeto
+Ecoleta é uma aplicação informa pontos de coleta de resíduos orgânicos/inorgânicos.
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - uma imagem do ponto de coleta
 - nome da entidade, email e whatsapp
 - e o endereço para que ele possa aparecer no mapa
 - além de selecionar um ou mais ítens de coleta: 
-  - lâmpadas
-  - pilhas e baterias
-  - papéis e papelão
-  - resíduos eletrônicos
-  - resíduos orgânicos
-  - óleo de cozinha
 
 Os usuários terão acesso ao aplicativo móvel, onde poderão:
 - navegar pelo mapa para ver as instituições cadastradas
 - entrar em contato com a entidade através do E-mail ou do WhatsApp
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat]
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+
+## 🚀 Tecnologias utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- ReactJS
+- React Native
+- TypeScript
+- HTML5 e CSS3
+- NodeJS
 
 
 ## 🎨 Design
+Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
 
-### Desktop
+#### 🖥 Desktop
+|<img src="./readme/web.svg" width="500">|<img src="./readme/sucesso-web.svg" width="500"> |  
+|---|---|
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img src="./readme/web.svg" width="400px">
-  <img src="./readme/sucesso-web.svg" width="400px">
-</p>
-
-### Mobile
-
-<p align="center">
-  <img src="./readme//home-mobile.png" width="200px">
-  <img src="./readme/detalhes-mobile.svg" width="200px">
-</p>
+### 📱 Mobile
+|<img src="./readme/home-mobile.png" width=300 />|<img src="./readme/detalhes-mobile.svg" width=300 /> |  
+|---|---|
 
 
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Expo][expo]
-- [Node.js][nodejs]
-- [React][reactjs]
-- [React Native][rn]
-- [TypeScript][typescript]
+## 🚀 Como desenvolver essa aplicação do zero
 
 
-
+#  🚧 Em construção...🚧
 
 
 
@@ -242,3 +216,9 @@ Importa o express, importa as rotas do PointsController, importa as rotas do Ite
 
 ## [server.ts]
 Faz a importação do cors
+
+
+
+## 📕 Licença
+Todos os arquivos incluídos aqui, incluindo este * README *, estão sob [Licença MIT](./LICENSE).
+Criado por [Adriana Lima](https://github.com/dxwebster)
