@@ -26,11 +26,11 @@ Os usuários terão acesso ao aplicativo móvel, onde poderão:
 ## 🚀 Tecnologias utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Expo][expo]
-- [Node.js][nodejs]
-- [React][reactjs]
-- [React Native][rn]
-- [TypeScript][typescript]
+- ReactJS
+- React Native
+- TypeScript
+- HTML5 e CSS3
+- NodeJS
 
 
 ## 🎨 Design
